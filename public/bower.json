@@ -1,0 +1,14 @@
+{
+  "name": "floreria",
+  "description": "Paquetes frontend para la floreria",
+  "main": "",
+  "authors": [
+    "Adrian Morado"
+  ],
+  "license": "MIT",
+  "homepage": "floreria.app",
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+    "bootstrap-material-design": "~4.1.1"
+  }
+}
